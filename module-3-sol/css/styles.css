@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+html{
+    font-size:20px;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.container{
+    margin-top:100px;
+}
+.item {
+    background-color:rgb(214, 214, 214);
+    padding: 1em;
+    height: 150vh;
+}
